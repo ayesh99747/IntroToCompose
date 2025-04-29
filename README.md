@@ -2,10 +2,6 @@
 
 This repository contains an Android money counter application built using Jetpack Compose.  This app is a simple example demonstrating basic Compose features.
 
-<img src="screenshots/Pic1.png" width="300" height="550">
-<img src="screenshots/Pic2.png" width="300" height="550">
-<img src="screenshots/Pic3.png" width="300" height="550">
-
 ## Key Features
 
 * Simple and intuitive user interface built with Jetpack Compose.
@@ -99,3 +95,24 @@ If you are the content owner and would like this repository modified or removed,
 ## Error Messages
 
 Refer to the Android Studio error messages and logs for debugging help.  If you encounter issues, ensure your environment is correctly setup, including Java, Android SDK, and Android Studio.  Check the Gradle sync to confirm all dependencies are correctly resolved.
+
+## Screenshots
+
+<p align="center">
+<img src="screenshots/Pic1.png" width="300" height="550">
+<br>
+<em>Figure 1: Home Screen of the app.</em>
+</p>
+
+<p align="center">
+<img src="screenshots/Pic2.png" width="300" height="550">
+<br>
+<em>Figure 2: Screenshot with Money Count increased.</em>
+</p>
+
+<p align="center">
+<img src="screenshots/Pic3.png" width="300" height="550">
+<br>
+<em>Figure 3: Screenshot with Money Count increased.</em>
+</p>
+
